@@ -87,6 +87,7 @@
    Команда для получения: git log -S "func providerSource\\(.*\\)" --pickaxe-regex --oneline
 <img src = "img/hw_1_6.jpg" width = 100%>
 7. Список коммитов в которых была изменена функция globalPluginDirs:
+
    Хеш-сумма | Комментарий
    --------- | -----------
    78b122055 | Remove config.go and update things using its aliases
